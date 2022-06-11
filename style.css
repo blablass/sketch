@@ -1,0 +1,26 @@
+body{
+    background-color: aquamarine;
+    text-align: center;
+}
+h1{
+    color: red;
+    background-color: cyan;
+
+}
+#showskectch{
+    float: right;
+
+}
+p{
+    padding-top: 15px;
+    font-size: 25px;
+}
+canvas{
+    border: 2px solid chocolate;
+    border-radius: 10px;
+    animation: code69 5s  1s infinite ;
+}
+@keyframes  code69{
+    from{box-shadow: 2px 2px 27px 15px yellowgreen;}
+    to{box-shadow: 2px 2px 27px 15px rgb(39, 28, 88);}
+}
